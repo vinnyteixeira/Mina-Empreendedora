@@ -1,0 +1,19 @@
+.ImgNavbar{
+    background-image: url(https://cdn.discordapp.com/attachments/918856602424062032/938140611956060231/logo_das_mina_200_px2.png);
+    background-repeat: no-repeat;
+    width: 270px;
+    min-height:   50px;
+    background-size: cover;
+    background-position: center;
+}
+
+.text-decoration-none{
+    color: rgb(32, 32, 32);
+}
+
+.texto{
+    border: 5px;
+    text-decoration: none;
+    font-size: medium;
+      
+}
